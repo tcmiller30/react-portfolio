@@ -3,8 +3,8 @@ import './header.css'
 
 const Header = () => {
   return (
-    <div className='header-bg w-50'>
-        <div className=" fs-1">Header</div>
+    <div className='header-bg fixed-top'>
+        <div className= "fs-1">Header</div>
     </div>
   )
 }
