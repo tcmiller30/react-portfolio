@@ -1,11 +1,16 @@
 import React from 'react'
+import Navigation from '../Navigation'
 import './header.css'
 
 const Header = () => {
   return (
-    <div className='header-bg fixed-top'>
-        <div className= "fs-1">Header</div>
-    </div>
+  
+    <header className='header-container p-3'>
+      <h1 className='title'>Travis Miller</h1>
+      <Navigation />
+    </header>
+
+        
   )
 }
 

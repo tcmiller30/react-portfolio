@@ -6,22 +6,15 @@ import Footer from './components/Footer';
 function App() {
   return (
     <div className="App">
-      <Header />
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn to React
-        </a>
-      </header>
-      <Footer />
+      <div>
+        <Header />
+      </div>
+        <main className='container'>
+          <h2>Test</h2>
+        </main>
+        <div>
+          <Footer />
+        </div>
     </div>
   );
 }
