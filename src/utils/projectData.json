@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Weather Dashboard",
+        "deployed_url": "https://tcmiller30.github.io/weather-dashboard/",
+        "github_url": "https://github.com/tcmiller30/weather-dashboard"
+    },
+    {
+        "name": "Work Day Scheduler",
+        "deployed_url": "https://tcmiller30.github.io/work-day-scheduler/",
+        "github_url": "https://github.com/tcmiller30/weather-dashboard"
+    },
+    {
+        "name": "Password Generator",
+        "deployed_url": "https://tcmiller30.github.io/password-generator/",
+        "github_url": "https://github.com/tcmiller30/password-generator/"
+    },
+    {
+        "name": "Code Quiz",
+        "deployed_url": "https://tcmiller30.github.io/code-quiz/",
+        "github_url": "https://github.com/tcmiller30/code-quiz/"
+    },
+    {
+        "name": "Note Taker",
+        "deployed_url": "https://tcmiller30.github.io/note-taker/",
+        "github_url": "https://github.com/tcmiller30/note-taker/"
+    },
+    {
+        "name": "CMS Tech Blog",
+        "deployed_url": "https://tcmiller30.github.io/cms-tech-blog/",
+        "github_url": "https://github.com/tcmiller30/cms-tech-blog/"
+    }
+]

@@ -3,7 +3,7 @@ import './navigation.css';
 
 const Navigation = () => {
   return (
-    <ul className='nav justify-content-center'>
+    <ul className='nav justify-content-around mx-auto w-50'>
         <li>About Me</li>
         <li>Portfolio</li>
         <li>Contact Me</li>
