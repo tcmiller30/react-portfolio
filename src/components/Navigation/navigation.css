@@ -1,3 +1,9 @@
-.nav li {
+.nav a, .nav a.active {
     color: var(--secondary);
+}
+.nav a:hover, .nav a.active:hover {
+    color: white;
+}
+.nav a.active, .nav a.visited {
+    font-weight: bold;
 }
