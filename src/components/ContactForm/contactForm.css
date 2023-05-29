@@ -1,0 +1,6 @@
+.contact-container {
+    text-align: center;
+    padding: 2rem;
+    background-color: var(--primary);
+    border-radius: 10px;
+}

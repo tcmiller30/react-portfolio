@@ -2,6 +2,10 @@ import React from "react";
 
 export default function About() {
     return (
-        <h2> Hello from About </h2>
+        <main className="container">
+        
+        <h2 className="section-title"> Hello from About </h2>
+
+        </main>
     )
 }

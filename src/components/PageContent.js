@@ -28,9 +28,7 @@ export default function PageContent() {
     return (
         <div>
             <Header currentPage={currentPage} handlePageChange={handlePageChange} />
-            <div className="container">
                 {renderPage()}
-            </div>
             <Footer />
         </div>
     );

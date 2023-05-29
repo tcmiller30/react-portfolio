@@ -1,7 +1,12 @@
 import React from "react";
+import ContactForm from "../ContactForm";
 
 export default function Contact() {
     return (
-        <h2> Hello from Contact </h2>
+        <main className="container">
+            <h2 className="section-title"> Contact </h2>
+            <ContactForm />
+        </main>
+        
     )
 }
