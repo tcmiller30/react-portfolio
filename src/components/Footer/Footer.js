@@ -1,9 +1,12 @@
 import React from 'react'
 import './footer.css'
 
+
 const Footer = () => {
   return (
-    <div className='fs-1 fixed-bottom'>Footer</div>
+    <footer className='fixed-bottom'>
+      <h2 >Footer</h2>
+    </footer>
   )
 }
 

@@ -1,0 +1,9 @@
+footer {
+    background-color: var(--primary);
+    max-height: 150px;
+    min-height: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+}
