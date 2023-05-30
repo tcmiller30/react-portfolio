@@ -19,5 +19,10 @@ code {
     monospace;
 }
 li {
-  color:red;
+  color: var(--tertiary);
+}
+.skills-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
 }
