@@ -1,7 +1,7 @@
 import React from "react";
 import Project from "../Project";
 import { weatherDashboardImg, workDaySchedulerImg,passwordGeneratorImg, 
-    codeQuizImg, noteTakerImg } from "../../assets";
+    codeQuizImg, noteTakerImg, techBlogImg } from "../../assets";
 
 export default function Portfolio() {
 
@@ -38,9 +38,9 @@ export default function Portfolio() {
         },
         {
             "name": "CMS-Style Tech Blog",
-            "deployed_url": "https://tcmiller30.github.io/tech-blog/",
-            "github_url": "https://github.com/tcmiller30/tech-blog/",
-            "img_src": noteTakerImg,
+            "deployed_url": "https://pacific-headland-29563.herokuapp.com/",
+            "github_url": "https://github.com/tcmiller30/tech-blog",
+            "img_src": techBlogImg,
         }
     ]
     return (
